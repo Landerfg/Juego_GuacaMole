@@ -1,4 +1,3 @@
-# Juego_Guaca_MOLE
- Juego de aplastar topos
-
+# Juego WacaMOLE
+ 
 Versión digital del clásico juego arcade, donde los jugadores deben golpear topos que aparecen aleatoriamente en diferentes agujeros en la pantalla. Este juego está diseñado para ser tanto divertido como desafiante, promoviendo la agilidad y la coordinación mano-ojo. El desarrollo del proyecto incluye la programación de una interfaz de usuario intuitiva y atractiva, junto con gráficos animados de alta calidad que representan a los topos y su entorno. Además, se implementan algoritmos para el control aleatorio de la aparición de los topos, asegurando que cada partida sea única y emocionante. El juego también incluye varios niveles de dificultad y un sistema de puntuación para fomentar la competencia entre los jugadores.
